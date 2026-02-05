@@ -1,0 +1,17 @@
+C:\Users\user\OneDrive\Desktop\ABO-HADHOD\C#-level1\windowFormsTraning\SelfOrederingProject\Self-Ordering-System-Project\bin\Debug\Self-Ordering-System-Project.exe.config
+C:\Users\user\OneDrive\Desktop\ABO-HADHOD\C#-level1\windowFormsTraning\SelfOrederingProject\Self-Ordering-System-Project\bin\Debug\Self-Ordering-System-Project.exe
+C:\Users\user\OneDrive\Desktop\ABO-HADHOD\C#-level1\windowFormsTraning\SelfOrederingProject\Self-Ordering-System-Project\bin\Debug\Self-Ordering-System-Project.pdb
+C:\Users\user\OneDrive\Desktop\ABO-HADHOD\C#-level1\windowFormsTraning\SelfOrederingProject\Self-Ordering-System-Project\obj\Debug\Self-Ordering-System-Project.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\ABO-HADHOD\C#-level1\windowFormsTraning\SelfOrederingProject\Self-Ordering-System-Project\obj\Debug\Self_Ordering_System_Project.frmWelcomingScreen.resources
+C:\Users\user\OneDrive\Desktop\ABO-HADHOD\C#-level1\windowFormsTraning\SelfOrederingProject\Self-Ordering-System-Project\obj\Debug\Self_Ordering_System_Project.frmHomeScreen.resources
+C:\Users\user\OneDrive\Desktop\ABO-HADHOD\C#-level1\windowFormsTraning\SelfOrederingProject\Self-Ordering-System-Project\obj\Debug\Self_Ordering_System_Project.frmOrderTypeScreen.resources
+C:\Users\user\OneDrive\Desktop\ABO-HADHOD\C#-level1\windowFormsTraning\SelfOrederingProject\Self-Ordering-System-Project\obj\Debug\Self_Ordering_System_Project.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\ABO-HADHOD\C#-level1\windowFormsTraning\SelfOrederingProject\Self-Ordering-System-Project\obj\Debug\Self-Ordering-System-Project.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\ABO-HADHOD\C#-level1\windowFormsTraning\SelfOrederingProject\Self-Ordering-System-Project\obj\Debug\Self-Ordering-System-Project.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\ABO-HADHOD\C#-level1\windowFormsTraning\SelfOrederingProject\Self-Ordering-System-Project\obj\Debug\Self-Ordering-System-Project.exe
+C:\Users\user\OneDrive\Desktop\ABO-HADHOD\C#-level1\windowFormsTraning\SelfOrederingProject\Self-Ordering-System-Project\obj\Debug\Self-Ordering-System-Project.pdb
+C:\Users\user\OneDrive\Desktop\ABO-HADHOD\C#-level1\windowFormsTraning\SelfOrederingProject\Self-Ordering-System-Project\obj\Debug\Self_Ordering_System_Project.frmPopular.resources
+C:\Users\user\OneDrive\Desktop\ABO-HADHOD\C#-level1\windowFormsTraning\SelfOrederingProject\Self-Ordering-System-Project\obj\Debug\Self_Ordering_System_Project.frmSettings.resources
+C:\Users\user\OneDrive\Desktop\ABO-HADHOD\C#-level1\windowFormsTraning\SelfOrederingProject\Self-Ordering-System-Project\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\OneDrive\Desktop\ABO-HADHOD\C#-level1\windowFormsTraning\SelfOrederingProject\Self-Ordering-System-Project\obj\Debug\Self-Ordering-System-Project.csproj.ResolveComReference.cache
+C:\Users\user\OneDrive\Desktop\ABO-HADHOD\C#-level1\windowFormsTraning\SelfOrederingProject\Self-Ordering-System-Project\obj\Debug\Self_Ordering_System_Project.frmCartScreen.resources
