@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Compiled and temporary files
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# NuGet and test output
+packages/
+TestResults/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
