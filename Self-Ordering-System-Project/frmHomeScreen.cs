@@ -115,7 +115,7 @@ namespace Self_Ordering_System_Project
             {
                 imageList = null;
                 flag = false;
-                flowLayoutPanel2.BackgroundImage = Image.FromFile(@"C:\Users\user\OneDrive\Desktop\ABO-HADHOD\C#-level1\windowFormsTraning\SelfOrederingProject\Images\discount.jfif");
+                flowLayoutPanel2.BackgroundImage = Properties.Resources.DiscountPromotion;
                 flowLayoutPanel2.BackgroundImageLayout = ImageLayout.Stretch;
             }
 

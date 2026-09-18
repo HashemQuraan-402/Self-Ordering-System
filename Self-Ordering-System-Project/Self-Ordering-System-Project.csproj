@@ -176,6 +176,9 @@
     <None Include="Resources\Promotions.jfif" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\discount.jfif" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="Resources\home.jfif" />
   </ItemGroup>
   <ItemGroup>
