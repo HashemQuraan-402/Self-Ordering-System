@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32240740/README.md)
 # Restaurant Self-Ordering System
 
 A Windows Forms kiosk-style ordering prototype for a restaurant. Customers can choose an order type, browse menu categories, add products to a cart, adjust quantities, review the total in Jordanian dinars, and generate an on-screen receipt.
@@ -15,7 +14,7 @@ A Windows Forms kiosk-style ordering prototype for a restaurant. Customers can c
 - On-screen order receipt
 - Interface color customization
 - Settings and social-links screen
-- Optional background-audio control
+- Optional background-audio control with a user-provided MP3 file
 
 ## Technologies
 
@@ -30,7 +29,7 @@ A Windows Forms kiosk-style ordering prototype for a restaurant. Customers can c
 - Windows 10 or later
 - Visual Studio 2022 with the **.NET desktop development** workload
 - .NET Framework 4.8 targeting pack
-- Windows Media Player component available on the machine
+- Windows Media Player component available on the machine if optional audio is enabled
 
 ## Run Locally
 
@@ -44,6 +43,16 @@ A Windows Forms kiosk-style ordering prototype for a restaurant. Customers can c
 3. Confirm that the `WMPLib` reference is available. If Visual Studio marks it as missing, add the **Windows Media Player** COM reference.
 4. Select **Build > Build Solution**.
 5. Press `F5` to run with debugging, or `Ctrl+F5` to run without debugging.
+
+## Optional Audio Setup
+
+The repository does not include an MP3 file. To enable the background-audio button:
+
+1. Add a legally licensed file named `ukulele.mp3` to `Self-Ordering-System-Project/Resources/`.
+2. Select the file in Visual Studio and set **Build Action** to `Content`.
+3. Set **Copy to Output Directory** to `Copy if newer`.
+
+Without this optional file, the application continues to work and displays a clear message when the audio button is selected.
 
 ## Typical Workflow
 
@@ -94,7 +103,7 @@ This repository is an educational kiosk prototype. Production concerns such as a
 
 ## Asset Notice
 
-Images and audio are included for educational demonstration. The background audio is credited in the source code. Verify the license and attribution requirements for all bundled assets before commercial reuse or redistribution.
+Images are included for educational demonstration. Background audio is optional and is not included in the repository. Verify the license and attribution requirements for all assets before commercial reuse or redistribution.
 
 ## Author
 
@@ -102,4 +111,3 @@ Images and audio are included for educational demonstration. The background audi
 
 - [GitHub](https://github.com/HashemQuraan-402)
 - [LinkedIn](https://www.linkedin.com/in/hashem-quraan-b561453ab)
-
